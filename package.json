@@ -1,0 +1,26 @@
+{
+  "name": "mern-estate",
+  "version": "1.0.0",
+  "description": "Creating an overdeveloped website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon api/index.js",
+    "start": "node api/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vatssakshu/over-dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/vatssakshu/over-dev/issues"
+  },
+  "homepage": "https://github.com/vatssakshu/over-dev#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
